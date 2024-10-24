@@ -1,3 +1,6 @@
+![Logo](https://raw.githubusercontent.com/dbuntyz/Powershell/refs/heads/main/powershell.png)
+
+
 # PowerShell Scripts Collection
 
 This repository contains a collection of PowerShell scripts designed to automate various tasks, improve productivity, and simplify system administration. The scripts provided here address common tasks in Windows environments, ranging from system management to automating repetitive tasks.
